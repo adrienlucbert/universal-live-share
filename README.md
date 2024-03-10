@@ -21,6 +21,19 @@ IDE.
 The protocol being open-source, if a client is missing for one's favorite IDE,
 they can contribute to this project by implementing the said client.
 
+## 📝 Implementation
+
+The Universal Live-Share project is made out of:
+- a protocol described in this repository
+- a [generic server implementation](https://github.com/adrienlucbert/universal-live-share-server)
+- an IDE-specific client implementation
+
+You can find a list of client implementations here:
+
+| IDE/Editor | Maintainer | Repository |
+|------------|------------|------------|
+| [neovim](https://neovim.io/) | [adrienlucbert](https://github.com/adrienlucbert) | https://github.com/adrienlucbert/universal-live-share-client-nvim |
+
 ## 🔨 Usage
 
 > 🚧 This section is still in progress. Please come back later.
