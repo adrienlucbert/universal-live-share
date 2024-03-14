@@ -28,6 +28,7 @@ The Universal Live-Share project is made out of:
 protocol described in [adrienlucbert/universal-live-share-proto](https://github.com/adrienlucbert/universal-live-share-proto)
 - a [generic server implementation](https://github.com/adrienlucbert/universal-live-share-server)
 - an IDE-specific client implementation
+- a [dummy client](https://github.com/adrienlucbert/universal-live-share-client-dbg) is available for debug purposes
 
 You can find a list of client implementations here:
 
