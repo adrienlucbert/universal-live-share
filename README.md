@@ -24,7 +24,8 @@ they can contribute to this project by implementing the said client.
 ## 📝 Implementation
 
 The Universal Live-Share project is made out of:
-- a protocol described in this repository
+- a [gRPC](https://grpc.io/docs/what-is-grpc/introduction/)/[protobuf](https://protobuf.dev/)
+protocol described in [adrienlucbert/universal-live-share-proto](https://github.com/adrienlucbert/universal-live-share-proto)
 - a [generic server implementation](https://github.com/adrienlucbert/universal-live-share-server)
 - an IDE-specific client implementation
 
